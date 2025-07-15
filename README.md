@@ -50,9 +50,9 @@ apt update && apt upgrade -y
  python3 insta-report.py
 ```
 
-### 📸 Screenshot
+ 📸 Screenshot
 
-![INSTA-REPORT Screenshot](https://ibb.co/ycFtfnmL)
+![INSTA-REPORT Screenshot](https://ibb.co/ycFtfnmL.jpg)
 
 ---
 
