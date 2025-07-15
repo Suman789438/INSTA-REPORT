@@ -52,7 +52,7 @@ apt update && apt upgrade -y
 
 ### 📸 Screenshot
 
-![INSTA-REPORT Screenshot](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)
+![INSTA-REPORT Screenshot](https://pin.it/19F3r0hII)
 
 ---
 
