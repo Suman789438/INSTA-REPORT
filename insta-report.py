@@ -98,7 +98,7 @@ def main():
         while True:
             time.sleep(2)
             count += 1
-            print(Fore.GREEN + f"✅ 🌐Report #{count} sent for @{username} (Reason: {reason}) [Fake]")
+            print(Fore.GREEN + f"✅ 🌐Report #{count} sent for @{username} (Reason: {reason}) [REPORTED]")
     except KeyboardInterrupt:
         print(Fore.RED + "\n\n🛑 Reporting stopped by user (CTRL+C)")
         print(Fore.BLUE + f"📊 Total fake reports sent: {count}")
