@@ -24,24 +24,31 @@ TERMUX LINUX KALLI LINUX
 
 ```bash
 [1] apt update && apt upgrade -y
-
+```
+```bash 
 [2] apt install python3
-
+```
+```bash
 [3] pip install -r requirements.txt
-
+```
+```bash
 [4] pip install colorama 
-
+```
+```bash
 [5] apt install git 
-
+```
+```bash
 [6] git clone 
-
+```
+```bash
 [7] cd INSTA-REPORT 
-
+```
+```bash
 [8] chomd +x *
-
+```
+```bash
 [9] python3 insta-report.py
-
-
+```
 
 ### 📸 Screenshot
 
