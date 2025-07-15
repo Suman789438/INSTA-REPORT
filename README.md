@@ -23,31 +23,31 @@ It allows cybersecurity students, automation testers, and ethical hackers to und
 TERMUX LINUX KALLI LINUX 
 
 ```bash
-[1] apt update && apt upgrade -y
+apt update && apt upgrade -y
 ```
 ```bash 
-[2] apt install python3
+ apt install python3
 ```
 ```bash
-[3] pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 ```bash
-[4] pip install colorama 
+ pip install colorama 
 ```
 ```bash
-[5] apt install git 
+ apt install git 
 ```
 ```bash
-[6] git clone 
+ git clone https://github.com/Suman789438/INSTA-REPORT.git
 ```
 ```bash
-[7] cd INSTA-REPORT 
+ cd INSTA-REPORT 
 ```
 ```bash
-[8] chomd +x *
+ chomd +x *
 ```
 ```bash
-[9] python3 insta-report.py
+ python3 insta-report.py
 ```
 
 ### 📸 Screenshot
