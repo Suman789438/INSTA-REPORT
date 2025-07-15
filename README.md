@@ -52,7 +52,7 @@ apt update && apt upgrade -y
 
 ### 📸 Screenshot
 
-![INSTA-REPORT Screenshot](https://photos.app.goo.gl/qVGNrKnsDudMFAdf7)
+![INSTA-REPORT Screenshot](https://photos.google.com/share/AF1QipP9Jbp1TkgTvwyBjCa6PSenE5ZgdQQb_SphnKc2ZOx4o9K3s0pJplHzXvaUDaygRA/photo/AF1QipMkPPK3lCS6TVgBS2PoAi1jGKqPBCRtsVe-JgFr?key=Ujc5ei1CY3hheTRfNTFkQXNlSzdQeXdYSFJERWxR)
 
 ---
 
